@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a M.S student majoring in NLP!
+
+[CV](https://drive.google.com/file/d/19cq9O1aWfIRmIPpY43jhy_X5gzlIOSMd/view?usp=sharing)
+[Blog](https://zizun.github.io)
+Mail: cap1232@jbnu.ac.kr
+
+
 <!--
 **ZIZUN/ZIZUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
