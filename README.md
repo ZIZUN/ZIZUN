@@ -2,7 +2,7 @@
 
 I'm a M.S student majoring in NLP!
 
-- [CV](https://drive.google.com/file/d/19cq9O1aWfIRmIPpY43jhy_X5gzlIOSMd/view?usp=sharing)
+- [CV](https://drive.google.com/file/d/1gjsETwTULr5G3NgYdcRLip8FGSYcFcQg/view?usp=sharing)
 - [Blog](https://zizun.github.io)
 - Mail: cap1232@jbnu.ac.kr
 
