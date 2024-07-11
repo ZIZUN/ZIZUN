@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a M.S student majoring in NLP!
+I completed B.S, M.S degree in Computer Science from Jeonbuk National University and currently work as an researcher at KT, AI Tech Lab. My areas of interest include NLP, ML, and multi-modal. For more information or to get in touch, please see the details below.
 
-- [CV](https://drive.google.com/file/d/19cq9O1aWfIRmIPpY43jhy_X5gzlIOSMd/view?usp=sharing)
+- [CV](https://drive.google.com/file/d/1r7RlTDUJ5jbUa6mig0fup-qakH5ZsbD1/view?usp=drive_link)
 - [Blog](https://zizun.github.io)
 - Mail: leesm1232@gmail.com
 
