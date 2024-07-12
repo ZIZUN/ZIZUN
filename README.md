@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I completed B.S, M.S degree in Computer Science from Jeonbuk National University and currently work as an researcher at KT, AI Tech Lab. My areas of interest include NLP, ML, and multi-modal. For more information or to get in touch, please see the details as follows:
+I completed B.S., and M.S. degrees in Computer Science from Jeonbuk National University and currently work as a researcher at KT, AI Tech Lab. My areas of interest include NLP, ML, and multi-modal. For more information or to get in touch, please see the details as follows:
 
 - [CV](https://drive.google.com/file/d/1r7RlTDUJ5jbUa6mig0fup-qakH5ZsbD1/view?usp=drive_link)
 - [Google Scholar](https://scholar.google.com/citations?hl=ko&user=ibQa9jUAAAAJ)
